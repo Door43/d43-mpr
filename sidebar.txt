@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpr:home|Door43 (mpr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpr|d43-mpr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpr/archive/master.zip|d43-mpr.zip]]
+
+**Recent Changes**
+{{changes>ns = mpr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpr|Ethnologue data]]
+
